@@ -20,3 +20,9 @@ how to run:
 prerequisites:
 katalon studio, appium(<2.0), node.js
 change the file path to your apk path
+
+
+how to run API.py
+python api.py
+prerequisites:
+pip install requests
