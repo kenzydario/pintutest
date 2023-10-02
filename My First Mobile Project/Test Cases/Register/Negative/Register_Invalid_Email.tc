@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register_Invalid_Email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a603ec11-051f-4c24-b46e-7667d1b23c15</testCaseGuid>
+</TestCaseEntity>
